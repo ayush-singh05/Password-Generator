@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ButtonWithClickEffect.css */
+
+.clickable-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.03s ease-in;
+  margin: 0 4px;
+  background-color: #2f762f;
+  padding: 4px 8px;
+  border-radius: 8px;
+}
+
+.clicked {
+  background-color: #1f651f; /* Change this to your desired click effect */
+}
+
+/* className='mx-1 px-2 py-1 bg-green-700 font-semibold rounded-lg' */
