@@ -31,17 +31,17 @@ To get started with the React Password Generator, follow these steps:
    git clone https://github.com/ayush-singh05/Password-Generator.git
 
 2. Navigate to the project directory:
-
+     ```bash
    cd password-generator   
 
 4. Install dependencies
-
+     ```bash
    npm install
     
 6. Run the application
-
+     ```bash
    npm run dev
 
 ## Preview
-
-Click here -> https://65bf4703f55590329b48cb3c--darling-brigadeiros-7a47a5.netlify.app/
+```
+ https://65bf4703f55590329b48cb3c--darling-brigadeiros-7a47a5.netlify.app/
