@@ -17,7 +17,7 @@ Welcome to the React Password Generator project! This application allows you to 
 ## Features
 
 - Customizable password length
-- Option to include uppercase letters, lowercase letters, numbers, and special characters
+- Option to include numbers, and special characters
 - Copy password to clipboard
 - Get notification on copy password
 
