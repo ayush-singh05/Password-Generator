@@ -43,5 +43,5 @@ To get started with the React Password Generator, follow these steps:
    npm run dev
 
 ## Preview
-```
+
  https://65bf4703f55590329b48cb3c--darling-brigadeiros-7a47a5.netlify.app/
